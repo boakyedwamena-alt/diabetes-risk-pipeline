@@ -38,7 +38,7 @@ The pipeline covers the full analytics lifecycle:
 
 ## Dataset
 
-This project uses the [Pima Indians Diabetes dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database). Download `diabetes.csv` and place it in a `data/` folder at the project root before running the script.
+This project uses the Pima Indians Diabetes dataset, originally from the National Institute of Diabetes and Digestive and Kidney Diseases. It was previously hosted on Kaggle at `uciml/pima-indians-diabetes-database`, but that listing is no longer available. The dataset (and its full attribute list) can still be downloaded from this mirror: [github.com/npradaschnor/Pima-Indians-Diabetes-Dataset](https://github.com/npradaschnor/Pima-Indians-Diabetes-Dataset) — download `diabetes.csv` from that repo and place it in a `data/` folder at the project root before running the script.
 
 ## Getting Started
 
