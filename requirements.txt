@@ -1,0 +1,15 @@
+# Tested with Python 3.11+ (pandas 3.x requires it). Versions below match results/run_info.json.
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+imbalanced-learn==0.14.2
+xgboost==3.4.1
+shap==0.52.0
+
+# Not recorded in run_info.json; any recent release should work
+scipy
+statsmodels
+matplotlib
+seaborn
+joblib
+ipython
