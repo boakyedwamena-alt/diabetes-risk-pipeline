@@ -67,4 +67,4 @@ python diabetes_pipeline.py
 ## Author
 
 **Emmanuel Dwamena** — MSc Data Analytics (Distinction), University of Portsmouth
-[LinkedIn](https://linkedin.com/in/emmanuel-dwamena) · boakyedwamena@gmail.com
+[LinkedIn](https://linkedin.com/in/emmanuel-dwamena)
