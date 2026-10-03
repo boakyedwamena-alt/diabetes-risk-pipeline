@@ -1,6 +1,6 @@
 # Diabetes Risk Classification: Machine Learning Pipeline
 
-An end-to-end machine learning pipeline for diabetes classification on the Pima Indians Diabetes dataset, built as part of an MSc Data Analytics dissertation. It follows [TRIPOD](https://www.tripod-statement.org/) reporting guidance and combines a biomedical science background with applied machine learning, with the aim of producing predictions that are both accurate and clinically interpretable.
+An end-to-end machine learning pipeline for diabetes classification on the Pima Indians Diabetes dataset. It follows [TRIPOD](https://www.tripod-statement.org/) reporting guidance and combines a biomedical science background with applied machine learning, with the aim of producing predictions that are both accurate and clinically interpretable.
 
 ## Summary
 
